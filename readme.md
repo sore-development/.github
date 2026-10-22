@@ -109,7 +109,7 @@ Set up a dedicated channel where anyone can request songs. Just type the song na
 
   | Action | Destination |
   | :--- | :--- |
-  | Invite Bot | [Add to Discord](https://discord.com/oauth2/authorize?client_id=928711702596423740&permissions=8&scope=bot%20applications.commands) |
+  | Invite Bot | [Add to Discord](https://discord.com/oauth2/authorize?client_id=928966154817523723) |
   | Browser Player | [Open Web Dashboard](https://sorebot.xyz/) |
   | Community | [Support & Server](https://sorebot.xyz/how-to-support) |
 
