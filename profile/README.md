@@ -1,54 +1,120 @@
-<!-- Centered Header Image -->
-<p align="center">
-  <a href="https://canary.discord.com/oauth2/authorize?client_id=928711702596423740">
-    <img src="https://assetsme.vercel.app/bot/mews/mehelp.png" alt="Mewwme Banner">
-  </a>
+<div align="center">
+
+  <img src="https://sore-image.vercel.app/brand/sore-brands.svg" alt="Sore Music" width="480" />
+
+  <br />
+  <br />
+
+  ### Everything You Need, Built In
+  *Your music, wherever you play. Listen with friends in voice channels, launch the Discord Activity, or enjoy music from the web player.*
+
+  <br />
+
+  <p align="center">
+    <a href="https://discord.com/oauth2/authorize?client_id=928966154817523723">
+      <img src="https://img.shields.io/badge/Discord-Add%20to%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Add to Discord" />
+    </a>
+    <a href="https://sorebot.xyz/">
+      <img src="https://img.shields.io/badge/Web%20Dashboard-sorebot.xyz-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Dashboard" />
+    </a>
+    <a href="https://sorebot.xyz/how-to-support">
+      <img src="https://img.shields.io/badge/Community-Support-404eed?style=for-the-badge&logo=discord&logoColor=white" alt="Community & Support" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### Highlights & Features
+
+#### Launch via Discord Activity
+Enjoy music wherever you are on Discord. Launch the embedded Activity directly inside your personal DMs, Group DMs, or listen together with friends in server voice channels without leaving Discord.
+
+- **DMs & Group DMs**  
+  Listen solo or share tracks directly in private chats.
+
+- **Server Voice Channels**  
+  Hang out and jam together with your community.
+
+- **Interactive In-App UI**  
+  Search tracks, manage queue & read lyrics inside Discord.
+
+---
+
+#### Your Music, Your Dashboard
+Control every beat from a powerful web dashboard. Manage queues, view synced lyrics in real time, discover 1000+ radio stations all without typing a single command.
+
+- **Web Dashboard**  
+  Full control from your browser, no commands needed.
+
+- **Live Synced Lyrics**  
+  Real-time lyrics that follow along with the music.
+
+- **200+ Radio Stations**  
+  Curated stations from genres worldwide.
+
+---
+
+#### Play From Any Source
+Stream from YouTube, Spotify, Apple Music, SoundCloud, Deezer, Tidal and more. Clean playback from all your favorite platforms, unified in one place.
+
+- **50+ Sources**  
+  Every major music platform supported.
+
+- **HQ Audio**  
+  Crystal-clear playback at high bitrate.
+
+<p>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  <img src="https://img.shields.io/badge/Apple%20Music-FA243C?style=flat-square&logo=applemusic&logoColor=white" alt="Apple Music" />
+  <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  <img src="https://img.shields.io/badge/Deezer-A238FF?style=flat-square&logo=deezer&logoColor=white" alt="Deezer" />
+  <img src="https://img.shields.io/badge/Tidal-000000?style=flat-square&logo=tidal&logoColor=white" alt="Tidal" />
 </p>
 
+---
 
-# Mewwme's Discord Bot
+#### Request Songs, No Commands
+Set up a dedicated channel where anyone can request songs. Just type the song name! No slash commands, no prefixes. Music made simple.
 
-#### Listen to your favourite music on discord with your friends!
-The Discord music bot that's 100% free with no payment or votes required to access all its amazing functionalities.
+- **Dedicated Channel**  
+  Clean, organized song request flow.
 
-## Features
+- **Queue By Typing**  
+  Just type the song name to add it directly to queue.
 
-- 🎵 24/7 Music play: Enjoy listening music source Spotify, Soundcloud, Twitch, Bandcamp and more..
-- 📻 Radio : Enjoy uninterrupted music streaming from various radio stations.
-- 🎧 Lofi : Listening to relaxing and soothing music in the "lofi" style.
-- 🚀 Playlist : Creating, Play and managing personal playlists to listen to your favorite music.
-- 🎶 25+ Filters : Over 25 filters available to refine and tailor the music listening experience.
-- 🔒 Secure and Reliable: The application is secure and reliable, ensuring privacy and stable service availability.
+---
 
-## Usage
+### Key Features
 
-To invite Mewwme's to your Discord server and start enjoying 24/7 Music, follow these steps:
+- Modern Web Player & Remote Dashboard
+- Discord Embedded Activities (Servers, DMs & Group DMs)
+- Dedicated Song Request Channel (Queue by typing)
+- Real-time Synchronized Lyrics
+- 24/7 Playback & Auto-Reconnect
+- 200+ Global Radio Stations & Lo-Fi Streams
+- Rich Multi-Platform Streaming Support
+- Advanced Audio Equalizers & Filters
 
-1. [Click here](https://canary.discord.com/oauth2/authorize?client_id=928966154817523723) to invite Mewwme's to your server.
-2. Once you've decided to use the best companion on Discord, then you can continue to invite it to your favorite server! Tap or click the Select a server button. A pop-up should appear that will let you select where you'd like to add Mewwme.
-3. Once you've selected the server that you'd like to add Mewwme to, you can press the Continue button on the bottom right of the menu.
-> NOTE: If you want to disable Administrator permission from Mewwme, it will not work properly! You will still be able to listen to basic music features but some things won't work.
-4. **Final Step** Once you press the Authorize button and complete the Captcha, you should be redirected to our thank-you page. In addition, you'll also see a message like the one below in your Discord server. Spectacular!
-*Now let's get the party started by playing some songs!*
+---
 
-## Commands
-### Support Slash command & Prefix command (customizable prefix)
+<div align="center">
 
-- `/play [song name/url]`: Start playing music from a specific song.
-- `/radio`: View the station station.
-- `/radio <sequence_number>`: To play the radio
-- `/lofi`: Listening to relaxing and soothing music in the "lofi" style.
-- `/247 <enable/disable>`: Command to activate or deactivate the 24/7 music streaming feature.
-- `/help`: The display all commands
+  ### Elevate Your Discord Audio Experience
+  *Get started in seconds or manage your server playback directly from the web.*
 
-----
+  <br />
 
-<p align="center">Thank you for checking out our projects!<br>We appreciate any kind of support ❤️</p>
-<p align="center">
-  <a href="https://www.patreon.com/mewwme">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Support us on Patreon">
-  </a>
-</p>
+  | Action | Destination |
+  | :--- | :--- |
+  | Invite Bot | [Add to Discord](https://discord.com/oauth2/authorize?client_id=928711702596423740&permissions=8&scope=bot%20applications.commands) |
+  | Browser Player | [Open Web Dashboard](https://sorebot.xyz/) |
+  | Community | [Support & Server](https://sorebot.xyz/how-to-support) |
 
-###### We are in no way affiliated with, maintained, authorized, sponsored, or officially associated with Discord Inc or any of its subsidiaries or affiliates.
-<!-- Heavily inspired by https://github.com/crunchy-lab !-->
+  <br />
+
+  <sub>© Sore Music. Built for Discord communities and private sessions.</sub>
+
+</div>
